@@ -1,3 +1,2 @@
-# InvariantAggregator
-
-We are getting permission to release the code.
+# Invariant-Aggregator
+ Implementation for Defending Federated Backdoors: An Invaiant Approach
